@@ -64,6 +64,7 @@
             <hr />
             <footer>
                 <h1>ARTURO DELGADO VIAMATICA S.A XD</h1>
+                <h1>PRUEBA FLUJO CAMPLETO</h1>
                 <p>&copy; <%: DateTime.Now.Year %> - Mi aplicación ASP.NET</p>
             </footer>
         </div>
