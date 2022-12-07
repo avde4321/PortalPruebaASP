@@ -11,7 +11,7 @@ namespace PortalPruebaASP
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            var hi = ;
+            
         }
     }
 }
