@@ -296,6 +296,7 @@
     </PropertyGroup>
     <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
     <Error Condition="!Exists('..\packages\TeamCity.VSTest.TestAdapter.1.0.36\build\net35\TeamCity.VSTest.TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\TeamCity.VSTest.TestAdapter.1.0.36\build\net35\TeamCity.VSTest.TestAdapter.props'))" />
+    <Error Condition="!Exists('..\packages\OctoPack.3.6.4\build\OctoPack.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\OctoPack.3.6.4\build\OctoPack.targets'))" />  
   </Target>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
